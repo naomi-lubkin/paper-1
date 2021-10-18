@@ -1,0 +1,19 @@
+---
+title: "Favaro et al. (2014) Paper Summary"
+author: "Cole Brookson, Alex Davis"
+date: "10/13/2021"
+output:
+    pdf_document
+---
+
+## Broad Questions
+
+## Changing Viewpoints
+
+## Connections
+
+## Epistomology
+
+## How Science Happens
+
+
